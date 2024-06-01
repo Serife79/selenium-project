@@ -46,6 +46,7 @@ public class BasicNavigations {
         //get title
         //System.out.println("driver.getTitle() = "+driver.getTitle());
         current = driver.getTitle();
+
         System.out.println("currentTitle :" +current);
         System.out.println("driver.getCurrentUrl() =" +driver.getCurrentUrl());
 
